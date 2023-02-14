@@ -1,13 +1,5 @@
 .DS_Store
-unpackage/
-.hbuilderx/
+unpackage
+.hbuilderx
 node_modules/
-.vite/
-uni_modules_tools/copy
-/uni_modules/uni-config-center/uniCloud/cloudfunctions/common/uni-config-center/uni-id/config.json
-/uni_modules/uni-config-center/uniCloud/cloudfunctions/common/uni-config-center/uni-id/custom-password.js
-
-.idea
-.vscode
-uni_modules/uni-id-pages/uniCloud/cloudfunctions/uni-id-co/.eslintrc.js
-.uni-devtools
+.vite
